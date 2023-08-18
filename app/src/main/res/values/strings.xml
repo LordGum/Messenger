@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Messenger</string>
+    <string name="your_email">Your email:</string>
+    <string name="password">Password:</string>
+    <string name="login">LOGIN</string>
+    <string name="forgot_password">Forgot password?</string>
+    <string name="messenger">Messenger</string>
+    <string name="name">name:</string>
+    <string name="registration">REGISTRATION</string>
+    <string name="last_name">Last name:</string>
+    <string name="age">Age:</string>
+    <string name="email">Email:</string>
+    <string name="password_reg">Password:</string>
+    <string name="sing_in">SING IN</string>
+    <string name="registration_login">Registration</string>
+    <string name="reset_password">RESET PASSWORD</string>
+    <string name="logout">Logout</string>
+    <string name="john_smith">John Smith</string>
+    <string name="long_text">long long long long long long long long long long long long long long long long</string>
+    <string name="write_your_message">write your message...</string>
+    <string name="today">Today</string>
+</resources>
