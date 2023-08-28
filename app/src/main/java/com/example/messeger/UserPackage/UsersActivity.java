@@ -124,11 +124,6 @@ public class UsersActivity extends AppCompatActivity {
 
                 Intent intent = new ChatActivity().newIntent(UsersActivity.this, currentId, user.getId());
                 startActivity(intent);
-
-
-
-                //Intent intent = new Intent(UsersActivity.this, TestActivity.class);
-                //startActivity(intent);
             }
         });
     }
